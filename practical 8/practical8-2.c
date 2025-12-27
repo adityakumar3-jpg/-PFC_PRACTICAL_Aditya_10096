@@ -21,3 +21,8 @@ int main() { printf("Aditya_10096\n");
 
     return 0;
 }
+//OUTPUT
+//Aditya_10096
+//Enter two numbers: 10 30 
+//Before swapping: x = 10, y = 30
+//After swapping: x = 30, y = 10
