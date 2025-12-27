@@ -24,3 +24,12 @@ int main() { printf("Aditya_10096\n");
 
     return 0;
 }
+//OUTPUT
+//Aditya_10096
+//Enter ATM PIN: 4895
+//Incorrect PIN. Attempts left: 2
+//Enter ATM PIN: 4578
+//Incorrect PIN. Attempts left: 1
+//Enter ATM PIN: 1234
+//PIN correct. Access granted.
+
