@@ -17,3 +17,7 @@ int main() { printf("Aditya_10096\n");
     printf("Sum of digits = %d", sumOfDigits(n));
     return 0;
 }
+//OUTPUT
+//Aditya_10096
+//2341
+//Sum of digits = 10
