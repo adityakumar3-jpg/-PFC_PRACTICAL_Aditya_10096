@@ -18,3 +18,11 @@ int main() { printf("Aditya_10096\n");
 
     return 0;
 }
+//OUTPUT
+//Aditya_10096
+//Enter height: 5
+//*
+//**
+//***
+//****
+//*****
