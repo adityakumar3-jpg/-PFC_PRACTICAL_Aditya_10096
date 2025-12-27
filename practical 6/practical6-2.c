@@ -17,3 +17,7 @@ int main() { printf("Aditya_10096\n");
 
     return 0;
 }
+//OUTPUT
+//Aditya_10096
+//Enter the value of n: 7
+//Sum of even numbers = 12
