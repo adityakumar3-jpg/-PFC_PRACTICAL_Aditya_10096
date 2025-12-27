@@ -12,3 +12,8 @@ int main() { printf("Aditya_10096");
 
     return 0;
 }
+//OUTPUT
+//Aditya_10096A
+//AB
+//ABC
+//ABCD
