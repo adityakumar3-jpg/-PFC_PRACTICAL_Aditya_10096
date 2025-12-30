@@ -1,23 +1,21 @@
 #include <stdio.h>
 
 int main() { printf("Aditya_10096\n");
-    int n, i, sum = 0;
+    int n, i;
     int arr[100];
 
     printf("Enter number of elements: ");
     scanf("%d", &n);
 
+    printf("Enter elements:\n");
     for(i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
 
-    for(i = 0; i < n; i++) {
-        if(arr[i] % 2 == 0) {
-            sum += arr[i];
-        }
+    printf("Reversed array:\n");
+    for(i = n - 1; i >= 0; i--) {
+        printf("%d ", arr[i]);
     }
-
-    printf("Sum of even elements = %d", sum);
 
     return 0;
 }
